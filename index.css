@@ -27,14 +27,14 @@
 
 
 }
-.press{
+.buttons{
  display: grid;
  grid-template-columns: repeat(4,1fr);
  grid-gap: 10px;
  margin-top: 20px;
 
 }
-button{
+buttons{
  padding: 10px;
  font-size: 20px;
  border: none;
